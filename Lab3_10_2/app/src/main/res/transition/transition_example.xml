@@ -1,0 +1,3 @@
+<!-- res/transition/transition_example.xml -->
+<changeBounds xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:anim/accelerate_decelerate_interpolator" />
